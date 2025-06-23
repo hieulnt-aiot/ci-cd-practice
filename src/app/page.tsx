@@ -5,6 +5,5 @@ export default function HomePage() {
       <h1 className="text-xl font-bold text-green-600">
         🎉 CI/CD pipeline is working!
       </h1>
-    </main>
   );
 }
